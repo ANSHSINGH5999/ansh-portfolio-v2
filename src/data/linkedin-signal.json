@@ -1,0 +1,19 @@
+{
+  "note": "LinkedIn has no public API for a personal profile's post feed, so this card is manually edited instead of live. Add entries here whenever you post/achieve something — newest first.",
+  "entries": [
+    {
+      "date": "2026-08-01",
+      "type": "post",
+      "title": "Building sXLM Liquid Staking on Soroban",
+      "summary": "Shared a walkthrough of the multi-asset collateral pooling logic behind sXLM.",
+      "url": "https://linkedin.com/in/ansh-singh-9607481a6"
+    },
+    {
+      "date": "2026-07-10",
+      "type": "achievement",
+      "title": "1st Position — Robofest Line Follower Competition",
+      "summary": "Won first place with an autonomous PID-tuned line follower.",
+      "url": "https://linkedin.com/in/ansh-singh-9607481a6"
+    }
+  ]
+}
